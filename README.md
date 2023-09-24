@@ -25,7 +25,7 @@ Feel free to explore my repositories to see more of my work.
 
 ### 📫 Let's Connect
 
-I'm always open to collaborating on exciting projects and connecting with fellow developers. You can reach me via [email](mailto:youremail@example.com) or find me on [LinkedIn]((https://www.linkedin.com/in/shaurya-sharma-311b74278/))!
+I'm always open to collaborating on exciting projects and connecting with fellow developers. You can reach me via [email](mailto:youremail@example.com) or find me on [LinkedIn](https://www.linkedin.com/in/shaurya-sharma-311b74278/)!
 
 Thanks for stopping by! Let's code and create amazing things together! 🚀
 <!---
