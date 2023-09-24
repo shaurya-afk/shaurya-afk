@@ -18,9 +18,6 @@ I'm particularly interested in game development and coding projects that challen
 
 ### 🚀 Projects
 
-- [SpaceX Website Clone]: A clone of SpaceX webiste as of 2023 (only front-end), it basically shows how I implemented the official website's hover effects etc. 
-- [Apple Website Clone]: A clone of apple's official webiste, by understanding the base concepts about **HTML & CSS**.t
-
 Feel free to explore my repositories to see more of my work.
 
 ### 📫 Let's Connect
